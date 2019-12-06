@@ -360,7 +360,7 @@ DEPENDENCIES
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.11)
-  rails (~> 5.2.3)
+  rails (~> 5.2.4)
   rsolr (>= 1.0, < 3)
   sass-rails (~> 5.0)
   selenium-webdriver
@@ -376,7 +376,7 @@ DEPENDENCIES
   webpacker
 
 RUBY VERSION
-   ruby 2.4.4p296
+   ruby 2.5.7p206
 
 BUNDLED WITH
    1.17.3
