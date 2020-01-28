@@ -22,6 +22,6 @@
   "layer_id_s": "mit:SDE_DATA_US_MA_E25ZCTA5DCT_2000",
   "layer_modified_dt": "2018-05-15T20:00:25Z",
   "layer_slug_s": "mit-f6rqs4ucovjk2",
-  "solr_geom": "ENVELOPE(-73.533237, -69.898565, 42.888068, 41.230345)",
+  "solr_geom": "ENVELOPE(-74.255895, -73.700272, 40.9152819999998, 40.4959289999998)",
   "geoblacklight_version": "1.0"
 }
