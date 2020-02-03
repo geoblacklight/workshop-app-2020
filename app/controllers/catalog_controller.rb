@@ -258,7 +258,7 @@ class CatalogController < ApplicationController
     # 'flatBlue'
     # 'midnightCommander'
 
-    config.basemap_provider = 'FlatBlue'
+    config.basemap_provider = 'flatBlue'
 
     # Configuration for autocomplete suggestor
     config.autocomplete_enabled = true
