@@ -17,3 +17,8 @@
 .navbar-brand {
   background: none;
 }
+
+.btn-primary {
+  background-color: #0000cc;
+  border-color: #0000cc;
+}
