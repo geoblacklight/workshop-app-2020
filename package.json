@@ -1,6 +1,10 @@
 {
   "name": "internal",
   "private": true,
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "yarn run eslint -- --ext .vue app/javascript"
+  },
   "dependencies": {
     "@rails/webpacker": "https://github.com/rails/webpacker.git"
   },
@@ -9,6 +13,9 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
+    "jest": "^25.1.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^2.1.0",
     "webpack-dev-server": "^3.6.0"
   }
 }
